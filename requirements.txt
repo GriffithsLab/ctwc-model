@@ -1,0 +1,12 @@
+pandas
+matplotlib
+scipy
+joblib
+mne
+nilearn
+scikit-learn
+seaborn
+moviepy
+numexpr
+numba
+networkx
